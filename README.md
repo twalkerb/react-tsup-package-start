@@ -5,7 +5,7 @@ This is a simple and slightly opinionated starter kit for developing and publish
 ## Getting started
 
 ```console
-npx degit TimMikeladze/tsup-react-package-starter my-react-package
+npx degit walkerbrian6/react-tsup-package-start my-react-package
 
 cd my-react-package && git init 
 
